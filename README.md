@@ -1,27 +1,34 @@
-# [CDV03] Starter CV for Software Development Role
+# 📌 CDV03 – Software Development CV
 
-Welcome to the GitHub repository for the [CDV03] project, focused on developing a standout resume for software development roles. This project guides you through the process of creating or refining your CV to effectively showcase your technical skills, professional experiences, and educational background, specifically tailored for opportunities in software development, with an emphasis on front-end technologies like React.js.
+This repository contains my completed CDV03 project: a professional CV tailored for software development roles. The purpose of this project was to design a clear, engaging, and industry-aligned resume that highlights my technical skills, experience, and capabilities as an emerging software developer.
 
-## Project Overview
+## ✅ Project Summary
 
-The goal is to craft a clear, concise, and compelling resume that not only reflects your qualifications but also emphasises your suitability for software development positions. This involves presenting your information in a professional format that captures the attention of hiring managers in the tech industry.
+The focus of this project was to create a job-ready CV suited for opportunities in software development, with emphasis on clarity, structure, and relevance to the tech industry. The final CV presents my background, skills, and projects in a format that aligns with what hiring managers and recruiters expect when reviewing junior developer profiles.
 
-### Practical Steps for the Project
+## 🧩 Key Inclusions in the Final CV
 
-1. **Gather and Organise Information**: Compile all relevant professional experiences, technical skills, educational achievements, and projects.
-2. **Contact Information**: Ensure your full name, phone number, professional email, and LinkedIn URL are prominently displayed at the top of your resume.
-3. **Professional Experience**: List your work history, focusing on roles and projects relevant to software development. Highlight your contributions and achievements.
-4. **Technical Skills**: Detail your proficiency in programming languages, frameworks, and tools, especially those pertinent to the job you're aiming for.
-5. **Education and Certifications**: Outline your educational background and any additional training or certifications related to software development.
-6. **Projects Portfolio**: Showcase significant projects to demonstrate your practical experience and technical abilities.
+The completed CV includes:
 
-### Submission Guidelines
-1. Finalise your resume in Google Docs format to ensure consistent formatting.
-2. Name your document following the specified format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV03").
-3. Add the link to your Google Docs resume in this README.
-4. Submit the link to your GitHub Repo via the LMS Project Tab by the submission deadline.
+### 👤 Professional Branding
+- Clear contact details and professional links positioned for easy reference  
 
-### Link to Resume
-[Your Google Docs Resume](<insert your Google Docs link here>)
+### 💼 Experience
+- Relevant work history with a focus on transferable skills and achievements valuable to software development  
 
-This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `<insert your Google Docs link here>` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
+### 🧠 Technical Skills
+- A summary of programming languages, tools, and technologies I have experience with  
+
+### 🎓 Education & Training
+- Academic background, courses, and certifications related to software development  
+
+### 🛠️ Projects Portfolio
+- A showcase of practical development work demonstrating real-world application of coding skills  
+
+---
+
+### 🔗 Final Resume Link
+
+[**View My Software Development CV**](https://docs.google.com/document/d/1zmis-7sL_wEESRB_2DHYgObrm2CZ-RSuN_suYTPcQfM/edit?tab=t.0)
+
+---
